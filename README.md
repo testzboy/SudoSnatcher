@@ -12,6 +12,8 @@ Linux 后渗透工具：SudoSnatcher
 
 # 使用方法
 
+[Releases](https://github.com/testzboy/SudoSnatcher/releases) 中下载指定版本的二进制文件，可通过默认配置直接运行或指定参数运行。
+
 参数`i`指定后渗透路径，参数`o`指定密码路径。
 
 默认路径如下：
