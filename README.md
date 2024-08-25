@@ -2,6 +2,8 @@
 
 Linux 后渗透工具：SudoSnatcher
 
+[English README](https://github.com/testzboy/SudoSnatcher/blob/main/README_EN.md) | [Chinese README](https://github.com/testzboy/SudoSnatcher/blob/main/README.md)
+
 # 免责说明
 
 此工具仅限于安全研究和教学，作者不承担任何法律和相关责任，密码仅保存在本地，不提供云上传功能。
