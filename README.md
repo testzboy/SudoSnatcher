@@ -1,3 +1,5 @@
+![]([/assets/img/philly-magic-garden.jpg "Magic Gardens](https://socialify.git.ci/testzboy/SudoSnatcher/image?description=1&descriptionEditable=After%20obtaining%20regular%20or%20privileged%20user%20login%20access%2C%20this%20tool%20can%20be%20used%20to%20capture%20sudo%20passwords.&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178143062%3Fs%3D96%26v%3D4&name=1&owner=1&stargazers=1&theme=Auto)")
+
 # Linux 后渗透工具：SudoSnatcher
 
 [English](https://github.com/testzboy/SudoSnatcher/blob/main/README_EN.md) | [Chinese](https://github.com/testzboy/SudoSnatcher/blob/main/README.md)
