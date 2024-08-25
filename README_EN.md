@@ -1,6 +1,6 @@
-# SudoSnatcher
+# Linux Post-Exploitation Tool: SudoSnatcher
 
-Linux Post-Exploitation Tool: SudoSnatcher
+[English](https://github.com/testzboy/SudoSnatcher/blob/main/README_EN.md) | [Chinese](https://github.com/testzboy/SudoSnatcher/blob/main/README.md)
 
 # Disclaimer
 
