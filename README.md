@@ -1,8 +1,8 @@
 # SudoSnatcher
 
-Linux 后渗透工具：SudoSnatcher
+[English](https://github.com/testzboy/SudoSnatcher/blob/main/README_EN.md) | [Chinese](https://github.com/testzboy/SudoSnatcher/blob/main/README.md)
 
-[English README](https://github.com/testzboy/SudoSnatcher/blob/main/README_EN.md) | [Chinese README](https://github.com/testzboy/SudoSnatcher/blob/main/README.md)
+Linux 后渗透工具：SudoSnatcher
 
 # 免责说明
 
